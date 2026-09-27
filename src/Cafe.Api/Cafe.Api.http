@@ -1,0 +1,6 @@
+@Cafe.Api_HostAddress = http://localhost:5186
+
+GET {{Cafe.Api_HostAddress}}/api/v1/health
+Accept: application/json
+
+###

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cafe.Api/Cafe.Api.csproj" />
+    <Project Path="src/Cafe.Modules.IdentityAccess/Cafe.Modules.IdentityAccess.csproj" />
+    <Project Path="src/Cafe.Modules.Notification/Cafe.Modules.Notification.csproj" />
+    <Project Path="src/Cafe.Modules.Reservation/Cafe.Modules.Reservation.csproj" />
+    <Project Path="src/Cafe.SharedKernel/Cafe.SharedKernel.csproj" />
+  </Folder>
+</Solution>
